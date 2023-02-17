@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application final</string>
+    <string name="shoe_name_hint">Shoe Name</string>
+    <string name="company_name_hint">Company Name</string>
+    <string name="shoe_size_hint">Shoe Size</string>
+    <string name="description_hint">Description</string>
+    <string name="description">Description:</string>
+    <string name="company_name">Company Name:</string>
+    <string name="shoe_size">Shoe Size:</string>
+    <string name="shoe_name">Shoe Name:</string>
+</resources>
